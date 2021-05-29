@@ -1,2 +1,2 @@
 # Kodluyoruz
-Kodluypru ödevleri
+Kodluyoruz ödevleri
